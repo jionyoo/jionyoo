@@ -105,5 +105,8 @@
 서비스는 기능이 아니라  
 운영까지 포함된 시스템이라고 생각합니다.
 
-## 📅 Monthly Logs
-- [2026.04 Growth Log](./2604.md)
+---
+
+# 📅 Monthly Logs
+
+- [2026.04 Monthly Growth Log](./2026.04.md)

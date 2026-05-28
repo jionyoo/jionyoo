@@ -110,3 +110,4 @@
 # 📅 Monthly Logs
 
 - [2026.04 Monthly Growth Log](./2026.04.md)
+- [2026.05 Monthly Growth Log](./2026.05.md)

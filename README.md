@@ -112,6 +112,7 @@
 
 * [2026.04 Monthly Growth Log](./monthly-growth/2026.04.md)
 * [2026.05 Monthly Growth Log](./monthly-growth/2026.05.md)
+* [2026.06 Monthly Growth Log](./monthly-growth/2026.06.md)
 
 ---
 

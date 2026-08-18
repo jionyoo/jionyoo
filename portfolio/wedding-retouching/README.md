@@ -72,8 +72,6 @@
 
 ## Final Output
 
-## Final Output
-
 ![웨딩 사진 보정 상세페이지 01](./wedding-retouching-01.png)
 
 ![웨딩 사진 보정 상세페이지 02](./wedding-retouching-02.png)

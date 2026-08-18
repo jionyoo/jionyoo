@@ -72,7 +72,25 @@
 
 ## Final Output
 
-![웨딩 사진 보정 상세페이지](./wedding-retouching-final.png)
+## Final Output
+
+![웨딩 사진 보정 상세페이지 01](./wedding-retouching-01.png)
+
+![웨딩 사진 보정 상세페이지 02](./wedding-retouching-02.png)
+
+![웨딩 사진 보정 상세페이지 03](./wedding-retouching-03.png)
+
+![웨딩 사진 보정 상세페이지 04](./wedding-retouching-04.png)
+
+![웨딩 사진 보정 상세페이지 05](./wedding-retouching-05.png)
+
+![웨딩 사진 보정 상세페이지 03](./wedding-retouching-06.png)
+
+![웨딩 사진 보정 상세페이지 04](./wedding-retouching-07.png)
+
+![웨딩 사진 보정 상세페이지 05](./wedding-retouching-08.png)
+
+![웨딩 사진 보정 상세페이지 05](./wedding-retouching-09.png)
 
 ---
 

@@ -65,7 +65,7 @@ AI와 함께 결과물을 발전시키는 바이브 코딩 방식을 경험했�
 ## Final Output
 
 - [HTML 소스 보기](./index.html)
-- [웹 발표자료 실행하기](GitHub Pages 주소)
+- [웹 발표자료 실행하기](https://jionyoo.github.io/vibe-coding-web-presentation/)
 
 ---
 

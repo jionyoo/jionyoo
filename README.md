@@ -89,7 +89,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 
 - [📸 Self Photo Guide](./portfolio/shooting-guide/)
 - [💍 Wedding Retouching Page](./portfolio/wedding-retouching/)
-- [🤖 AI & Claude Projects](./portfolio/claude-projects/)
+- [🤖 AI & Claude Projects](./portfolio/claude-course-assignments/)
 - [🇯🇵 Japan Convenience Print Web](./portfolio/japan-convenience-print-web/)
 
 ---

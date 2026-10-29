@@ -98,7 +98,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 
 | 프로젝트 | 한 줄 요약 |
 |---|---|
-| [🇯🇵 Marufoto · 일본 콘비니 증명사진 웹](./portfolio/japan-convenience-print-web/) | 53개 화면 설계 → React로 17개 화면 구현 (진행 중) |
+| [🇯🇵 Marufoto · 일본 콘비니 증명사진 웹](./portfolio/japan-convenience-print-web/) | 53개 화면 설계 → React로 17개 화면 구현 (진행 중) · [사이트](https://marufoto-web.vercel.app) |
 | [🚘 운전면허 필기 앱 리뉴얼](./portfolio/driving-license-app-renewal/) | iOS / Android 재출시, 4개 언어 스토어 스크린샷 40종 |
 | [📸 증명사진 셀프 촬영 가이드](./portfolio/shooting-guide/) | 반려 사례 9개 유형을 AI 이미지 가이드로 시각화 |
 | [💍 웨딩 보정 상세페이지](./portfolio/wedding-retouching/) | Before / After 중심 스마트스토어 상세페이지 |
@@ -130,3 +130,9 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 - AI를 실제 업무와 결과물 제작에 활용
 - 기획·디자인·운영을 연결해서 경험
 - 빠르게 배우고 직접 실행
+
+---
+
+## 📫 Contact
+
+- Email: [jion.yoo@picme.kr](mailto:jion.yoo@picme.kr)

@@ -87,6 +87,18 @@ AI를 단순히 질문하는 도구가 아니라
 
 ## 📱 Final Output
 
+### 주요 기능 스크린샷 (한국어)
+
+| 진도 관리 | 실전 모의고사 | 다크 모드 | 오답 노트 | 동영상 문제 |
+|---|---|---|---|---|
+| ![진도 관리](./images/ko-01-progress.png) | ![실전 모의고사](./images/ko-02-mock-exam.png) | ![다크 모드](./images/ko-03-dark-mode.png) | ![오답 노트](./images/ko-06-wrong-answers.png) | ![동영상 문제](./images/ko-10-video.png) |
+
+### 다국어 확장 (같은 화면 · 4개 언어)
+
+| 🇰🇷 한국어 | 🇺🇸 영어 | 🇨🇳 중국어 | 🇻🇳 베트남어 |
+|---|---|---|---|
+| ![한국어](./images/ko-01-progress.png) | ![영어](./images/en-01-progress.png) | ![중국어](./images/zh-01-progress.png) | ![베트남어](./images/vi-01-progress.png) |
+
 - App Store / Google Play 동시 재출시
 - 4개 언어(한국어 · 영어 · 중국어 · 베트남어) × 10개 화면 = **스토어 스크린샷 40종**
 - 출시 이후 버그 수정 및 정기 업데이트 진행

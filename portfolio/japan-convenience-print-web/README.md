@@ -1,6 +1,8 @@
 # 🇯🇵 마루포토(Marufoto) · 일본 콘비니 증명사진 웹 서비스
 
 > 진행 중 · 2026.09 ~ (9월 설계 → 10월 개발)
+>
+> 🌐 사이트: [marufoto-web.vercel.app](https://marufoto-web.vercel.app)
 
 ## Background
 

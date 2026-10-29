@@ -1,6 +1,6 @@
 # Current Skill Matrix
 
-마지막 업데이트: 2026.09
+마지막 업데이트: 2026.10
 
 ---
 
@@ -58,7 +58,7 @@
 | --- | --- | --- |
 | App Store Connect | Intermediate | 스토어 운영, 심사 대응, 메타데이터·스크린샷 관리 |
 | Google Play Console | Intermediate | 스토어 운영 및 콘텐츠 관리 |
-| Firebase Console | Beginner | 서비스 운영 관점의 기본 구조 이해 |
+| Firebase Console | Beginner | 서비스 운영 및 웹서비스 연동 경험 |
 | GA4 | Learning | 서비스 데이터 분석 학습 |
 | Microsoft Clarity | Learning | 사용자 행동 분석 학습 |
 
@@ -69,10 +69,21 @@
 | Skill | Level | Notes |
 | --- | --- | --- |
 | Claude Cowork | Intermediate | 리서치·문서·PPT 등 업무 Workflow 활용 |
-| Claude Code | Beginner | 바이브 코딩 및 웹 결과물 제작 |
+| Claude Code | Intermediate | 바이브 코딩, 웹 PPT 및 마루포토 웹서비스 개발 |
 | MCP | Beginner | 외부 서비스 및 Figma 연동 경험 |
 | AI Document Workflow | Intermediate | 조사 → 정리 → 문서 제작 → 검수 |
 | AI Design Workflow | Intermediate | AI 이미지 생성 → Figma 디자인 연결 |
+
+---
+
+# Web Development (AI-assisted)
+
+| Skill | Level | Notes |
+| --- | --- | --- |
+| React / TypeScript | Beginner | Claude Code로 마루포토 웹서비스 17개 화면 구현 |
+| Tailwind CSS | Beginner | 반응형 · 다국어 레이아웃 구현 |
+| Firebase | Beginner | 사진 보관 · 삭제 정책, 데이터 구조 연동 |
+| Vercel | Beginner | 웹서비스 배포 환경 경험 |
 
 ---
 
@@ -94,4 +105,5 @@
 - AI Workflow & Automation
 - Figma 기반 UI/UX
 - Global Service
+- AI-assisted Web Development
 - Data-driven Decision Making

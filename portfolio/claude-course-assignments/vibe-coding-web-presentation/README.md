@@ -65,11 +65,11 @@ Claude와 함께 작업했습니다.
 
 ### ▶ Live Demo
 
-[인터랙티브 웹 PPT 실행하기](GitHub-Pages-주소)
+[인터랙티브 웹 PPT 실행하기](https://jionyoo.github.io/jionyoo/portfolio/claude-course-assignments/vibe-coding-web-presentation/)
 
 ### 💻 Source
 
-`index.html`
+[`index.html`](./index.html)
 
 HTML, CSS, JavaScript를 하나의 파일에 담아
 웹에서 바로 실행할 수 있도록 제작했습니다.

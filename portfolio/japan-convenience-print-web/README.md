@@ -78,6 +78,8 @@
 
 [maroofoto.com](https://maroofoto.com) 모바일 화면 (2026.10 기준)
 
-| 랜딩 | 사진 업로드 | 플랜 선택 · 결제 | 주문 내역 |
-|---|---|---|---|
-| ![랜딩](./mobile-image-01.png) | ![사진 업로드](./mobile-image-02.png) | ![플랜 선택 · 결제](./mobile-image-03.png) | ![주문 내역](./mobile-image-04.png) |
+| 랜딩 | 1. 사진 업로드 | 2. 사이즈 조정 | 3. 플랜 선택 · 결제 | 4. 접수 완료 |
+|---|---|---|---|---|
+| ![랜딩](./mobile-image-01.png) | ![사진 업로드](./mobile-image-02.png) | ![사이즈 조정](./mobile-image-03.png) | ![플랜 선택 · 결제](./mobile-image-04.png) | ![접수 완료](./mobile-image-05.png) |
+
+> 예시 인물 사진은 AI로 생성한 이미지입니다.

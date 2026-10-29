@@ -101,7 +101,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 | [🇯🇵 Maroofoto · 일본 콘비니 증명사진 웹](./portfolio/japan-convenience-print-web/) | 53개 화면 설계 → React로 17개 화면 구현 (진행 중) · [사이트](https://maroofoto.com) |
 | [📱 픽미 스토어 스크린샷 & App Store 심사 대응](./portfolio/picme-store-screenshots/) | 한·일·미 스토어 이미지 제작, 반려 대응 끝에 10월 심사 통과 |
 | [🖨 실물사진 인화 품질 개선](./portfolio/print-quality-improvement/) | 고객 피드백 → 생산 과정 점검 → 색 빠짐 원인 확인 · 수정 |
-| [📲 픽미 폴더블 기기 UI QA](./portfolio/foldable-device-qa/) | 1점 리뷰 → 원격 테스트랩 점검 → 문제 5건 우선순위 보고 |
+| [📲 픽미 폴더블 기기 UI QA](./portfolio/foldable-device-qa/) | 1점 리뷰 → 원격 테스트랩 재현 → 우선순위 보고 → 4일 만에 수정 |
 | [🚘 운전면허 필기 앱 리뉴얼](./portfolio/driving-license-app-renewal/) | iOS / Android 재출시, 4개 언어 스토어 스크린샷 40종 |
 | [📸 증명사진 셀프 촬영 가이드](./portfolio/shooting-guide/) | 반려 사례 9개 유형을 AI 이미지 가이드로 시각화 |
 | [💍 웨딩 보정 상세페이지](./portfolio/wedding-retouching/) | Before / After 중심 스마트스토어 상세페이지 |

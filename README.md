@@ -106,6 +106,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 - [2026.07 Monthly Growth Log](./monthly-growth/2026.07.md)
 - [2026.08 Monthly Growth Log](./monthly-growth/2026.08.md)
 - [2026.09 Monthly Growth Log](./monthly-growth/2026.09.md)
+- [2026.10 Monthly Growth Log](./monthly-growth/2026.10.md)
 
 ---
 

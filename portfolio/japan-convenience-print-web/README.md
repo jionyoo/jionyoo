@@ -1,8 +1,8 @@
-# 🇯🇵 마루포토(Marufoto) · 일본 콘비니 증명사진 웹 서비스
+# 🇯🇵 마루포토(Maroofoto) · 일본 콘비니 증명사진 웹 서비스
 
 > 진행 중 · 2026.09 ~ (9월 설계 → 10월 개발)
 >
-> 🌐 사이트: [marufoto-web.vercel.app](https://marufoto-web.vercel.app)
+> 🌐 사이트: [maroofoto.com](https://maroofoto.com)
 
 ## Background
 
@@ -52,7 +52,7 @@
 
 폰트는 일본 웹 특유의 굵고 큰 자형을 살리되, 해당 서체에 한글 글리프가 없어 언어별로 분리 적용했습니다.
 
-![마루포토 브랜드 컬러](./marufoto-color.png)
+![마루포토 브랜드 컬러](./maroofoto-color.png)
 
 ## Result
 
@@ -76,6 +76,8 @@
 
 ## Screens
 
-| 1. 업로드 | 2. 사이즈 조정 | 3. 플랜 · 결제 | 4. 접수 완료 |
+[maroofoto.com](https://maroofoto.com) 모바일 화면 (2026.10 기준)
+
+| 랜딩 | 사진 업로드 | 플랜 선택 · 결제 | 주문 내역 |
 |---|---|---|---|
-| ![업로드](./mobile-image-01.png) | ![사이즈 조정](./mobile-image-02.png) | ![플랜 · 결제](./mobile-image-03.png) | ![접수 완료](./mobile-image-04.png) |
+| ![랜딩](./mobile-image-01.png) | ![사진 업로드](./mobile-image-02.png) | ![플랜 선택 · 결제](./mobile-image-03.png) | ![주문 내역](./mobile-image-04.png) |

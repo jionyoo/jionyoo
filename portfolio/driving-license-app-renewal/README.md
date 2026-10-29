@@ -87,21 +87,9 @@ AI를 단순히 질문하는 도구가 아니라
 
 ## 📱 Final Output
 
-### Store Screenshots
-
-여기에 **4개 언어 스크린샷이 보이는 Figma 전체 화면 이미지**를 넣습니다.
-
-`![다국어 스토어 스크린샷](./images/store-screenshots.png)`
-
-### App Release
-
-여기에 **Google Play Console 출시 화면**을 넣습니다.
-
-`![Google Play 출시](./images/google-play-release.png)`
-
-App Store 출시 화면도 추가할 경우:
-
-`![App Store 출시](./images/app-store-release.png)`
+- App Store / Google Play 동시 재출시
+- 4개 언어(한국어 · 영어 · 중국어 · 베트남어) × 10개 화면 = **스토어 스크린샷 40종**
+- 출시 이후 버그 수정 및 정기 업데이트 진행
 
 ---
 

@@ -82,13 +82,13 @@
 
 ![웨딩 사진 보정 상세페이지 05](./wedding-retouching-05.png)
 
-![웨딩 사진 보정 상세페이지 03](./wedding-retouching-06.png)
+![웨딩 사진 보정 상세페이지 06](./wedding-retouching-06.png)
 
-![웨딩 사진 보정 상세페이지 04](./wedding-retouching-07.png)
+![웨딩 사진 보정 상세페이지 07](./wedding-retouching-07.png)
 
-![웨딩 사진 보정 상세페이지 05](./wedding-retouching-08.png)
+![웨딩 사진 보정 상세페이지 08](./wedding-retouching-08.png)
 
-![웨딩 사진 보정 상세페이지 05](./wedding-retouching-09.png)
+![웨딩 사진 보정 상세페이지 09](./wedding-retouching-09.png)
 
 ---
 

@@ -105,7 +105,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 | [🚘 운전면허 필기 앱 리뉴얼](./portfolio/driving-license-app-renewal/) | iOS / Android 재출시, 4개 언어 스토어 스크린샷 40종 |
 | [📸 증명사진 셀프 촬영 가이드](./portfolio/shooting-guide/) | 반려 사례 9개 유형을 AI 이미지 가이드로 시각화 |
 | [💍 웨딩 보정 상세페이지](./portfolio/wedding-retouching/) | Before / After 중심 스마트스토어 상세페이지 |
-| [🤖 AI & Claude Projects](./portfolio/claude-course-assignments/) | 인터랙티브 웹 PPT, 증시 분석 리포트 |
+| [🤖 AI 활용 과제 포트폴리오](./portfolio/claude-course-assignments/) | 인터랙티브 웹, 가상 매출 분석, 증시 리포트, AI 보안 발표 자료 |
 
 ---
 

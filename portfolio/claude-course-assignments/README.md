@@ -1,9 +1,27 @@
-# 🤖 AI & Claude Projects
+# 🤖 AI 활용 과제 포트폴리오
 
-Claude 강의 과제로 진행한 결과물입니다.
-AI와 함께 **기획 → 제작 → 검수**까지 하나의 흐름으로 결과물을 만드는 연습을 했습니다.
+AI 강의 과제로 진행한 결과물입니다. 웹, 문서, 발표 자료를 만들면서 **과제 정의, 구조 설계, 제작, 검수**를 한 흐름으로 연습했습니다.
 
-| 프로젝트 | 사용 도구 | 결과물 |
+이 페이지의 가상 서비스와 예시 데이터는 실제 업무 성과가 아닌 학습용 사례입니다. 실제 업무 프로젝트는 상위 [Portfolio](../../README.md#-portfolio)에서 별도로 확인할 수 있습니다.
+
+## 프로젝트
+
+| 프로젝트 | 작업 내용 | 결과물 |
 |---|---|---|
-| [🎞 인터랙티브 웹 PPT](./vibe-coding-web-presentation/) | Claude, HTML · CSS · JS | 14장 웹 프레젠테이션 · [Live Demo](https://jionyoo.github.io/jionyoo/portfolio/claude-course-assignments/vibe-coding-web-presentation/) |
-| [📈 국내 증시 분석 리포트](./stock-analysis-report/) | Claude Cowork, Claude in Chrome | Word 분석 리포트 (.docx) |
+| [🎞 인터랙티브 웹 프레젠테이션](./vibe-coding-web-presentation/) | 가상의 1인 앱 운영 사례를 14장 인터랙티브 발표 자료로 구현 | HTML · CSS · JavaScript · [Live Demo](https://jionyoo.github.io/jionyoo/portfolio/claude-course-assignments/vibe-coding-web-presentation/) |
+| [📊 월별 매출 분석 리포트](./sales-report-automation/) | 가상 판매 데이터를 표, 차트, 인사이트가 포함된 Word 보고서로 변환 | Word 보고서 2종 |
+| [📈 국내 증시 분석 리포트](./stock-analysis-report/) | 공개 시장 데이터와 기사를 조사해 일간 리포트 구조로 정리 | Word 분석 리포트 |
+| [🛡 AI 보안과 윤리 발표 자료](./ai-security-presentation/) | 딥페이크, 저작권, 규제를 하나의 발표 흐름으로 구성하고 역할별 검수 | PowerPoint 6장 |
+
+## 공통 작업 방식
+
+1. 결과물보다 먼저 독자와 목적을 정했습니다.
+2. 긴 내용을 표, 차트, 슬라이드 흐름으로 다시 구조화했습니다.
+3. AI가 만든 수치, 문장, 레이아웃을 원문과 화면에서 다시 확인했습니다.
+4. 실제 데이터와 가상 데이터를 구분해 공개 범위를 명시했습니다.
+
+## 배운 점
+
+- AI를 문서 작성 도구로만 쓰지 않고 기획, 제작, 검수 과정에 나눠 적용하는 방법
+- 산출물 형식에 맞춰 같은 정보를 다르게 구성하는 방법
+- 자동 생성 결과에서 사실관계와 기준 변경을 다시 확인하는 습관

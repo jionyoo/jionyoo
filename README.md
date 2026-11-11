@@ -104,7 +104,8 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 | [📲 픽미 폴더블 기기 UI QA](./portfolio/foldable-device-qa/) | 1점 리뷰 → 원격 테스트랩 재현 → 우선순위 보고 → 4일 만에 수정 |
 | [🚘 운전면허 필기 앱 리뉴얼](./portfolio/driving-license-app-renewal/) | iOS / Android 재출시, 4개 언어 스토어 스크린샷 40종 |
 | [📸 증명사진 셀프 촬영 가이드](./portfolio/shooting-guide/) | 반려 사례 9개 유형을 AI 이미지 가이드로 시각화 |
-| [💍 웨딩 보정 상세페이지](./portfolio/wedding-retouching/) | Before / After 중심 스마트스토어 상세페이지 |
+| [🪪 프리즘 증명사진 상품페이지 개선](./portfolio/prism-id-photo-detail-page/) | 기존 정보 구조 재설계 → 서비스·옵션·검수 요청 흐름 시각화 |
+| [💍 프리즘 웨딩 보정 상세페이지](./portfolio/wedding-retouching/) | Before / After 중심 스마트스토어 상세페이지 |
 | [🤖 AI 활용 과제 포트폴리오](./portfolio/claude-course-assignments/) | 인터랙티브 웹, 가상 매출 분석, 증시 리포트, AI 보안 발표 자료 |
 
 ---
@@ -121,7 +122,7 @@ Product Operations, 서비스 기획, UI/UX, AI 활용까지 업무 범위를 �
 | [2026.08](./monthly-growth/2026.08.md) | 보정 매출 전월 대비 약 52% 증가, 운전면허 앱 재출시 |
 | [2026.07](./monthly-growth/2026.07.md) | App Store 심사 대응, 일본 콘비니 출력 기능 적용 |
 | [2026.06](./monthly-growth/2026.06.md) | AI Lab 기능 기획, 한·일·미 스토어 이미지 제작 |
-| [2026.05](./monthly-growth/2026.05.md) | 증명사진 셀프 촬영 가이드 제작 |
+| [2026.05](./monthly-growth/2026.05.md) | 증명사진 촬영 가이드·상품페이지 개선 |
 | [2026.04](./monthly-growth/2026.04.md) | 온보딩, 보정 · 운영 · 기획 범위 확장 |
 
 ---
